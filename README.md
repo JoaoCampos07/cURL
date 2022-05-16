@@ -11,3 +11,6 @@ curl -X GET "http://localhost:5051/application/1" -H  "accept: text/plain"
 ``` powershell
 cURL --cert C:\Certificates\clientUAT.p12:test123 GET "http://localhost:5051/application/1"
 ```
+
+## Refs : 
+- https://oxylabs.io/blog/curl-with-proxy
